@@ -10,5 +10,5 @@ setup(name='treefolk',
       packages=['treefolk'],
       install_requires=[
             'airtable-python-wrapper >= 0.13.0',
-      ]
+      ],
       zip_safe=False)
